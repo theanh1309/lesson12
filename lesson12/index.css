@@ -1,0 +1,44 @@
+.all{
+    width: 1500px;
+    height: 600px;
+    border: 1px solid black;
+}
+.dong1,.dong2{
+   
+        /* width: 1500px; */
+        height: 300px;
+        
+    
+}
+.o1{
+    width:300px;
+    height: 300px;
+    background-color: teal;
+    float: left;
+}
+.o3{
+    width:300px;
+    height: 300px;
+    background-color: rgb(197, 24, 24);
+    float: left;
+    margin-left: 300px;
+}.o5{
+    width:300px;
+    height: 300px;
+    background-color: rgb(4, 118, 146);
+    float: left;
+    margin-left: 300px;
+}.o7{
+    width:300px;
+    height: 300px;
+    background-color: rgb(13, 0, 196);
+    float: left;
+    margin-left: 300px;
+}
+.o9{
+    width:300px;
+    height: 300px;
+    background-color: rgb(36, 9, 9);
+    float: left;
+    margin-left: 300px;
+}
